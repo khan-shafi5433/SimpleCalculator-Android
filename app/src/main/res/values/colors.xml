@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bg_black">#050505</color>
+    <color name="surface">#151515</color>
+
+    <color name="blue_glow">#1E90FF</color>
+    <color name="blue_dark">#0B63FF</color>
+
+    <color name="silver">#E9EDF5</color>
+    <color name="text_secondary">#8E99A8</color>
+
+    <color name="danger">#FF5A5F</color>
+
+</resources>
