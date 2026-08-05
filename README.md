@@ -37,4 +37,4 @@ Check the Releases section for APK.
 
 ## Developer
 
-Shafi
+Khan Mohammad Shafi
