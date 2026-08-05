@@ -17,8 +17,11 @@ Inspired by Samsung One UI design.
 ## Screenshots
 
 <p align="center">
-<img src="screenshot/homescreen.png" width="250">
-<img src="screenshot/errorhandling.png" width="250">
+
+![Home Screen](screenshot/homescreen.jpg)
+
+![Error Handling](screenshot/errorhandling.jpg)
+
 </p>
 
 ## Tech Stack
